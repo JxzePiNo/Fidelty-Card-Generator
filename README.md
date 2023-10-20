@@ -75,4 +75,4 @@ Finally, to generate the card, simply call the function. ``` generateFideltyCard
 | logo            | "logoFactory.png"                                                         |
 
 
-![Result of code](https://github.com/JxzePiNo/Fidelty-Card-Generator/main/preview.png?raw=true)
+![Result of code](./preview.png)
