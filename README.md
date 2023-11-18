@@ -21,7 +21,7 @@ Subsequently, it's necessary to include the Font link inside the head section, a
 <body>
   <script src="https://cdn.jsdelivr.net/jsbarcode/3.3.20/JsBarcode.all.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
-  <script src="script.js"></script>ù
+  <script src="script.js"></script>
 <body>
 ```
 
